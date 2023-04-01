@@ -47,7 +47,7 @@ Links:
 
 • [Web Wallet](https://mycoinbdex.com)
 
-• [Android Wallet](/) under Google's approval - coming soon
+• [Android Wallet](https://play.google.com/store/apps/details?id=com.mycoinbdex.wallet)
 
 
 ---
